@@ -9,8 +9,8 @@ class Sample {
     string name;
     public:
     Sample(){     //default constructor
-        roll_no=48;
-        name="Radhika"; 
+        roll_no=43;
+        name="Prasamsha"; 
     }
     Sample(int p, string q){    //parameterized constructor
         roll_no=p;
@@ -29,7 +29,7 @@ int main(){
     Sample S1;
     cout<<"Using default constructor: "<<endl;
     S1.display();
-    Sample S2(73 , "Rikan");
+    Sample S2(34 , "Perisha");
     cout<<"Using paramaterized constructor: "<<endl;
     S2.display();
     Sample S3(S2);
