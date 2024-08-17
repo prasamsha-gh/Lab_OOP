@@ -2,8 +2,7 @@
 //Provide Constructor and different member function with the following operations.
 //▪ To input data for Distance objects.
 //▪ To show the data of Distance objects.
-//▪ Member function to add two Distance objects passed as object as function arguments
-and then display the result
+//▪ Member function to add two Distance objects passed as object as function arguments and then display the result
 
 #include<iostream>
 using namespace std;
